@@ -1,4 +1,4 @@
-# FederatedLearning-Robot  
+# FederatedLearning-Robot [2023 산업경영시스템학회 춘계학술대회 발표]  
 ## 🤖 Robot Controller Module
 
 ## 연구실 인턴십 배경
