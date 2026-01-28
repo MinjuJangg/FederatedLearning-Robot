@@ -1,5 +1,7 @@
 # 🤖 FederatedLearning-Robot 
 [2023 산업경영시스템학회 춘계학술대회 발표]  
+[동국대 : 시뮬레이션 기반 최적화 연구실]
+
 ##  Robot Controller Module
 
 ## 프로젝트 배경
